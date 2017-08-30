@@ -70,6 +70,6 @@ mocha add.test.js
 
 运行结果如下，可以看到测试脚本同构了测试，一共只有 `1` 个测试用例，耗时是 `8` 毫秒。
 
-![](/assets/gettting-started.jpg)
+![](/assets/getting-started.jpg)
 
 > `mocha` 命令后面紧跟测试脚本的路径和文件名，可以指定多个测试脚本。例如： `mocha file1 file2 file3`
