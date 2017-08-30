@@ -1,5 +1,7 @@
 # 小何前端笔记之 Mocha
 
+> 本文的在线文档地址为： https://helinjiang.gitbooks.io/note-mocha/
+
 ## 关于 Mocha
 
 [Mocha](https://mochajs.org/)（发音"摩卡"）诞生于2011年，是现在最流行的JavaScript测试框架之一，在浏览器和Node环境都可以使用。
