@@ -14,7 +14,7 @@ Mocha支持从测试用例生成规格文件。
 mocha --recursive -R markdown > spec.md
 ```
 
-![](index_files/90002be4-fefb-400a-8928-f6a9c6c6fd52.png)
+![](/assets/reporters-markdown.jpg)
 
 ## 2. 生成 html 文件
 
@@ -26,6 +26,6 @@ mocha --recursive -R markdown > spec.md
 mocha --recursive -R doc > spec.html
 ```
 
-![](index_files/90002be4-fefb-400a-8928-f6a9c6c6fd52.png)
+![](/assets/reporters-html.jpg)
 
 [10.reporters]:https://github.com/helinjiang/pro-mocha/tree/master/10.reporters

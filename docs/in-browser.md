@@ -63,6 +63,6 @@ describe('加法函数的测试', function() {
 
 在浏览器里面打开 `index.html`，就可以看到测试脚本的运行结果。
 
-![](index_files/b7dfc554-aded-40a7-80d7-4d5f24cd285c.png)
+![](/assets/in-browser.jpg)
 
 [09.in-browser]:https://github.com/helinjiang/pro-mocha/tree/master/09.in-browser

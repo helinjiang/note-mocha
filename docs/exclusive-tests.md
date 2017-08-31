@@ -27,7 +27,7 @@ it('任何数加0应该等于自身', function() {
 mocha test/add-it-only.test.js
 ```
 
-![](index_files/68310f88-6f64-43f6-a1a5-70268812d69e.png)
+![](/assets/exclusive-tests-it.jpg)
 
 ## 2. describe 块使用 only
 
@@ -51,8 +51,7 @@ describe('加法函数的测试[no only]', function () {
 });
 ```
 
-![](index_files/1add807f-2636-4535-8f24-53cae5f967d6.png)
-
+![](/assets/exclusive-tests-describe.jpg)
 
 ## 3. skip 和 only
 

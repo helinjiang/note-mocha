@@ -53,7 +53,8 @@ describe('beforeEach示例', function () {
 mocha test/beforeEach.test.js
 ```
 
-![](index_files/e0c84090-d319-4ec0-a9a0-d1c8d1058656.png)
+![](/assets/hooks-beforeeach.jpg)
+
 
 
 ## 3. 示例二，beforeEach 中进行异步操作
@@ -84,7 +85,7 @@ describe("beforeEach示例-异步操作", function() {
 mocha test/beforeEach-async.test.js
 ```
 
-![](index_files/79ef8bd5-3429-4b9f-99fe-bd3dfdad757a.png)
+![](/assets/hooks-beforeeach-async.jpg)
 
 [07.hook]: https://github.com/helinjiang/pro-mocha/tree/master/07.hook
 
