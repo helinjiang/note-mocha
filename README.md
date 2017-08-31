@@ -1,6 +1,6 @@
 # 小何前端笔记之 Mocha
 
-> 本文的在线文档地址为： https://helinjiang.gitbooks.io/note-mocha/
+> 本文的在线文档地址为： [https://helinjiang.gitbooks.io/note-mocha/](https://helinjiang.gitbooks.io/note-mocha/)
 
 ## 关于 Mocha
 
@@ -16,12 +16,14 @@
 
 本文的内容是一些关于 Mocha 的使用笔记，目标是：
 
-- 帮助初学者快速入门
-- 为中高级使用者进一步学习提供指引
-
+* 帮助初学者快速入门
+* 为中高级使用者进一步学习提供指引
 
 ## 参考资料
 
 参考资料包括但不限于：
 
-- 官方文档： http://mochajs.org/
+* 官方文档： [http://mochajs.org/](http://mochajs.org/)
+
+
+
