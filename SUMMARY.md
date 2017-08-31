@@ -10,4 +10,5 @@
 * [异步测试](docs/async.md)
 * [测试用例的钩子 HOOKS](docs/hooks.md)
 * [测试用例管理](docs/exclusive-tests.md)
+* [在浏览器中执行测试用例](docs/in-browser.md)
 
