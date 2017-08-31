@@ -8,4 +8,5 @@
 * [配置文件 mocha.opts](docs/mocha-opts.md)
 * [使用 ES6](docs/use-es6.md)
 * [异步测试](docs/async.md)
+* [测试用例的钩子 HOOKS](docs/hooks.md)
 

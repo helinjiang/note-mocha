@@ -1,3 +1,5 @@
+# Getting Started
+
 我们先以一个简单的加法示例开始，完整的源代码在 [01.getting-started] 中。
 
 ## 1. 新建项目
