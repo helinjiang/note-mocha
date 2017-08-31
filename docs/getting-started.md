@@ -1,4 +1,4 @@
-我们先以一个简单的加法示例开始，完整的源代码在 [01.getting-started](https://github.com/helinjiang/pro-mocha/tree/master/01.getting-started) 中。
+我们先以一个简单的加法示例开始，完整的源代码在 [01.getting-started] 中。
 
 ## 1. 新建项目
 
@@ -73,3 +73,6 @@ mocha add.test.js
 ![](/assets/getting-started.jpg)
 
 > `mocha` 命令后面紧跟测试脚本的路径和文件名，可以指定多个测试脚本。例如： `mocha file1 file2 file3`
+
+
+[01.getting-started]: https://github.com/helinjiang/pro-mocha/tree/master/01.getting-started
