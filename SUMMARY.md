@@ -11,4 +11,6 @@
 * [测试用例的钩子 HOOKS](docs/hooks.md)
 * [测试用例管理](docs/exclusive-tests.md)
 * [在浏览器中执行测试用例](docs/in-browser.md)
+* [生成规格文件](docs/reporters.md)
+
 
