@@ -48,8 +48,6 @@ mocha test/{,**/}*.js
 
 ![](/assets/mocha-test-directory-glob.jpg)
 
-更多关于通配符的说明，请查看“通配符”一节。
-
 
 [01.getting-started]: https://github.com/helinjiang/pro-mocha/tree/master/01.getting-started
 [02.mocha-test-directory]: https://github.com/helinjiang/pro-mocha/tree/master/02.mocha-test-directory
